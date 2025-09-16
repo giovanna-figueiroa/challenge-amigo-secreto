@@ -37,5 +37,3 @@ Este é um projeto simples de **Amigo Secreto** desenvolvido em HTML, CSS e Java
 Sinta-se à vontade para abrir issues ou pull requests com melhorias, correções ou sugestões!
 
 ---
-
-Feito com 💜 para fins
